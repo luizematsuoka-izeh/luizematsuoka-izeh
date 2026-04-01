@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello! My name is Luize Matsuoka 👋
+I am a Software Engineering student with an interest in web development and building applications.
+
+Currently, I study and develop projects using HTML, CSS, and JavaScript, while also exploring React and Node.js to expand my skills.
+
+I believe in continuous learning through practice and constant growth as a developer.
+
+🚀 Always building and learning.
+
+**``Software Engineering Student | Full Stack in Training``**
 
 <!--
 **luizematsuoka-izeh/luizematsuoka-izeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
