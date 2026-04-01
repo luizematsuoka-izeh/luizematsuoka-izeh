@@ -29,21 +29,6 @@ I believe in continuous learning through practice and constant growth as a devel
 
 </div>
 
-<!--
-**luizematsuoka-izeh/luizematsuoka-izeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ---
 
 <div align="center">
@@ -57,6 +42,20 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=luizematsuoka-izeh&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=ff8fb1&text_color=f5f5f5&icon_color=ff8fb1" 
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizematsuoka-izeh&layout=compact&bg_color=0d1117&title_color=ff8fb1&text_color=f5f5f5" 
+  />
+</div>
 
 
 
