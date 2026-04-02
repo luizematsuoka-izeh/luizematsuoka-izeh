@@ -16,23 +16,10 @@ I believe in continuous learning through practice and constant growth as a devel
 **``Software Engineering Student | Full Stack in Training``**
 
 <div align="left">
-
-  <a href="https://instagram.com/luizematsuoka" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-
-  <a href="mailto:luizematsuoka@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/luize-m-3432843a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-
-  <a href="https://discord.gg/Br8Z97zN" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-
+  <a href="https://instagram.com/luizematsuoka" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35"></a><!--
+  --><a href="mailto:luizematsuoka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"></a><!--
+  --><a href="https://discord.gg/Br8Z97zN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="35"></a><!--
+  --><a href="https://www.linkedin.com/in/luize-m-3432843a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"></a>
 </div>
 
 ---
