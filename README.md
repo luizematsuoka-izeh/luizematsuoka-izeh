@@ -3,6 +3,12 @@ I am a Software Engineering student with an interest in web development and buil
 
 Currently, I study and develop projects using HTML, CSS, and JavaScript, while also exploring React and Node.js to expand my skills.
 
+<img 
+  align="right" 
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFtdHg5cHJrYXJrZDRvOWtqYW90MzI5a3BzZ2kzYmw5Mm5obmNkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ipr0t8r5WYd5kKmxJj/giphy.gif" 
+  width="160px"
+  style="margin-top: 60px; margin-left: 20px;"
+/>
 I believe in continuous learning through practice and constant growth as a developer.
 
 🚀 Always building and learning.
@@ -32,7 +38,7 @@ I believe in continuous learning through practice and constant growth as a devel
 ---
 
 <div align="center">
-  <h2> Languages and Tools</h2>
+  <h2>🛠️Languages and Tools</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="html logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="css logo"/>
@@ -42,13 +48,12 @@ I believe in continuous learning through practice and constant growth as a devel
 </div>
 
 ---
-### 📊 Statistics
 
-<div>
-  <a href="https://github.com/luizematsuoka-izeh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizematsuoka-izeh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizematsuoka-izeh&layout=compact&langs_count=16&theme=dark&cache_seconds=86400"/>
-  </a>
+<div align="center">
+  <h2>📊 Statistics</h2>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizematsuoka-izeh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizematsuoka-izeh&layout=compact&langs_count=8&theme=dracula" />
 </div>
 
 ---
