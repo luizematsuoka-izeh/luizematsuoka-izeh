@@ -42,27 +42,14 @@ I believe in continuous learning through practice and constant growth as a devel
 </div>
 
 ---
-
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=luizematsuoka-izeh&show_icons=true&theme=onedark&include_all_commits=true&locale=en"
-  />
-
-  <img 
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizematsuoka-izeh&theme=onedark&layout=compact&custom_title=Technologies&langs_count=9"
-  />
-</p>
-
-<br clear="both">
+<div>
+  <a href="https://github.com/luizematsuoka-izeh">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizematsuoka-izeh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizematsuoka-izeh&layout=compact&langs_count=16&theme=dark&cache_seconds=86400"/>
+  </a>
+</div>
 
 ---
 
