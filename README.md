@@ -3,6 +3,7 @@
 <div align="center">
   <h2>Hello! My name is Luize Matsuoka 👋</h2>
   <div align="left">
+    
 I am a Software Engineering student with an interest in web development and building applications.
 
 Currently, I study and develop projects using HTML, CSS, and JavaScript, while also exploring React and Node.js to expand my skills.
